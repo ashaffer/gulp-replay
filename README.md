@@ -1,7 +1,7 @@
 gulp-replay
 ===========
 
-gulp-replay is a caching layer for streams.
+gulp-replay is a caching layer for gulp streams.
 
 
 # Example
