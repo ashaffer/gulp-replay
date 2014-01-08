@@ -1,0 +1,14 @@
+{
+  "name": "gulp-replay",
+  "version": "0.0.0",
+  "description": "Sits in the middle of your stream and caches every file that comes through it.  When it gets a repeat (a file that it has already cached), it re-emits the entire cache and the updated file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashaffer",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "through": "~2.3.4"
+  }
+}
