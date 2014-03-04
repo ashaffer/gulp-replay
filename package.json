@@ -10,5 +10,14 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "through": "~2.3.4"
-  }
+  },
+  "homepage": "https://github.com/ashaffer/gulp-replay/",
+  "bugs": "https://github.com/ashaffer/gulp-replay/issues/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ashaffer/gulp-replay.git"
+  },
+  "keywords": [
+    "gulpplugin"  
+  ]
 }
